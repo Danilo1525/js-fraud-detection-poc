@@ -98,7 +98,7 @@ npm install @tensorflow/tfjs
 ## ▶️ Execução
 
 ```bash
-node fraude.js
+node ia_ensemble.js
 ```
 
 Após executar, observe o terminal. Você verá os dias simulados passando e a IA tentando manter a segurança acima de 90%.
